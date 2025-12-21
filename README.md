@@ -38,17 +38,7 @@
 - SMTP / Email Systems
 - cPanel / VPS Deployment
 
----
-
-## 🚀 Featured Projects
-
-### 🛒 AFRABD – Multi-Vendor eCommerce Platform
-- Product, cart, checkout & coupon system
-- Vendor & admin dashboards
-- Livewire-powered dynamic UI
-- Secure payment gateway integration
-
-### 🧩 Custom Laravel Applications
+###  Custom Laravel Applications
 - Admin panels & dashboards
 - Marketplace & service platforms
 - API-based systems
@@ -56,17 +46,8 @@
 
 ---
 
-## 📄 My CV
-👉 **[Download My CV (PDF)](./MD_Monirul_Islam_CV.pdf)**  
-👉 **[View Online CV](https://your-username.github.io/cv/)**
 
----
 
-## 📫 Contact Me
-- 📧 Email: your@email.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🌐 Portfolio: https://your-portfolio.com
 
----
 
 ⭐ **If you like my work, feel free to star my repositories**
