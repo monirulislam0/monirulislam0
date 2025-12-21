@@ -3,7 +3,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 - Professional **Laravel Developer** with strong backend expertise
 -  Skilled in **Laravel, Livewire, PHP, MySQLi, JavaScript**
 -  Experienced in **eCommerce & Multi-Vendor Marketplace Development**
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - PHP (OOP, MVC)
