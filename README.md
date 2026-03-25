@@ -9,7 +9,7 @@
 -  Experienced in **eCommerce & Multi-Vendor Marketplace Development**
 -  Clean, scalable, and secure code focused
 - Always deliver projects **on time with clear communication**
--  Founder & Developer at **Azamora Systems**
+
 
 ---
 
